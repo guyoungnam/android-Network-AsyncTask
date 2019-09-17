@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Sample35_Network2_AsyncTask'
